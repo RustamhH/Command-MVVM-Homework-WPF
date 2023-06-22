@@ -1,0 +1,29 @@
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.exe
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.deps.json
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.runtimeconfig.json
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.dll
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.pdb
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.csproj.AssemblyReference.cache
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\MainView.g.cs
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\App.g.cs
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework_MarkupCompile.cache
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework_MarkupCompile.lref
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\MainView.baml
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.g.resources
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.AssemblyInfoInputs.cache
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.AssemblyInfo.cs
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.csproj.CoreCompileInputs.cache
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.dll
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\refint\Command_MVVM Homework.dll
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.pdb
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.genruntimeconfig.cache
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\ref\Command_MVVM Homework.dll
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\ResourceDictionaries\CustomButtonRD.baml
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\App.baml
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\bin\Debug\net6.0-windows\Bogus.dll
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.csproj.CopyComplete
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\ShowCarView.g.cs
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\ShowCarView.baml
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\EditCarView.g.cs
+D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\EditCarView.baml

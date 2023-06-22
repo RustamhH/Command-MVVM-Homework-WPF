@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1fHx7ZW9N+ZmLK5YlOvjotubv44J9865jsNMb+fZWRYSuF1SmDFaeMXiDdpqLvEp3d2GQ48SiFGj5Jyw0wEk+w==",
+  "success": true,
+  "projectFilePath": "D:\\WinForm & WPF\\Command_MVVM Homework\\Command_MVVM Homework\\Command_MVVM Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RustamH\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
