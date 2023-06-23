@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Command_MVVM_Homework.Views"
+        xmlns:local="clr-namespace:Command_MVVM_Homework.ViewModels"
         mc:Ignorable="d"
         Title="MainView" Height="450" Width="800">
     <Grid>
@@ -11,7 +11,7 @@
         
         <StackPanel>
 
-            <ComboBox Name="CarBox" HorizontalAlignment="Left" Margin="30" Width="300"  ItemsSource="{Binding Cars}" SelectedItem="{Binding SelectedCar,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" FontSize="12" FontWeight="Bold"/>
+            <ComboBox Name="CarBox" HorizontalAlignment="Left" Margin="30" Width="300"  ItemsSource="{Binding Cars, UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding SelectedCar,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  FontSize="12" FontWeight="Bold"/>
 
             <TextBlock Text="Maker" FontWeight="Bold"/>
             <TextBox IsEnabled="False" Text="{Binding SelectedCar.Maker,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Margin="0 0 300 0"/>
@@ -25,7 +25,9 @@
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 0 0">
                 <Button Content="Show" Foreground="Black" Width="80" Height="30" Margin="0 0 10 0" Command="{Binding ShowCommand}"/>
                 <Button Content="Save" Foreground="Black" Width="80" Height="30" Margin="0 0 10 0" Command="{Binding SaveCommand}" />
-                <Button Content="Edit" Foreground="Black" Width="80" Height="30" Margin="0 0 10 0" Command="{Binding EditCommand}"/>
+                <Button Content="Edit" Foreground="Black" Width="80" Height="30" Margin="0 0 10 0"
+                        CommandParameter="{Binding RelativeSource={RelativeSource
+FindAncestor, AncestorType={x:Type Window}}}" Command="{Binding EditCommand}"/>
                 <Button Content="Delete" Foreground="Black" Width="80" Height="30" Margin="0 0 10 0" Command="{Binding DeleteCommand}"/>
             </StackPanel>
         </StackPanel>

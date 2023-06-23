@@ -20,11 +20,11 @@ namespace Command_MVVM_Homework.Views
     /// </summary>
     public partial class MainView : Window
     {
+       
         public MainView()
         {
             InitializeComponent();
             DataContext = new MainViewModel();
-            
         }
     }
 }

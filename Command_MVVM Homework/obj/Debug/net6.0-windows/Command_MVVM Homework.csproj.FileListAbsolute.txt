@@ -27,3 +27,32 @@ D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-wi
 D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\ShowCarView.baml
 D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\EditCarView.g.cs
 D:\WinForm & WPF\Command_MVVM Homework\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\EditCarView.baml
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.exe
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.deps.json
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.runtimeconfig.json
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.dll
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\bin\Debug\net6.0-windows\Command_MVVM Homework.pdb
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\bin\Debug\net6.0-windows\Bogus.dll
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.csproj.AssemblyReference.cache
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\ResourceDictionaries\CustomButtonRD.baml
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\EditCarView.g.cs
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\ShowCarView.g.cs
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework_MarkupCompile.cache
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework_MarkupCompile.lref
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\App.baml
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\EditCarView.baml
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Views\ShowCarView.baml
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.g.resources
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.AssemblyInfoInputs.cache
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.AssemblyInfo.cs
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.csproj.CoreCompileInputs.cache
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.csproj.CopyComplete
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.dll
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\refint\Command_MVVM Homework.dll
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.pdb
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\Command_MVVM Homework.genruntimeconfig.cache
+C:\Users\Hesen_zc39\Desktop\Command-MVVM-Homework-WPF\Command_MVVM Homework\obj\Debug\net6.0-windows\ref\Command_MVVM Homework.dll

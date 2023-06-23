@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1fHx7ZW9N+ZmLK5YlOvjotubv44J9865jsNMb+fZWRYSuF1SmDFaeMXiDdpqLvEp3d2GQ48SiFGj5Jyw0wEk+w==",
+  "dgSpecHash": "GMQaLecmT5SFP6PPi4uBflNY5CUm4gan6xnJWhrdiHs6uptyRlTRZ2MN8UA20mfkunbgO66GDFCX9pLy3jfhyA==",
   "success": true,
-  "projectFilePath": "D:\\WinForm & WPF\\Command_MVVM Homework\\Command_MVVM Homework\\Command_MVVM Homework.csproj",
+  "projectFilePath": "C:\\Users\\Hesen_zc39\\Desktop\\Command-MVVM-Homework-WPF\\Command_MVVM Homework\\Command_MVVM Homework.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RustamH\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+    "C:\\Users\\Hesen_zc39\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
   ],
   "logs": []
 }
